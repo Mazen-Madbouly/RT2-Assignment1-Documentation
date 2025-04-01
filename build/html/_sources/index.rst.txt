@@ -24,5 +24,3 @@ Action Client Node
 .. automodule:: action_client
    :members:
    :noindex:
-
-
