@@ -54,14 +54,4 @@ html_theme = 'sphinx_rtd_theme'
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'alabaster'
 html_static_path = ['_static']
-
-# Extension configuration
-# -- Options for intersphinx extension ---------------------------------------
-# Example configuration for intersphinx: refer to the Python standard library.
-intersphinx_mapping = {'python': ('https://docs.python.org/3', None)}
-
-# -- Options for todo extension ----------------------------------------------
-# If true, `todo` and `todoList` produce output, else they produce nothing. 
-todo_include_todos = True
