@@ -107,12 +107,7 @@ The `scripts/action_client.py` file contains a ROS node that acts as an action c
 
 To start the simulation, use the following launch files:
 
-1. **Assignment Launch**:
+ **Assignment Launch**:
     ```sh
     roslaunch assignment_2_2024 assignment1.launch
-    ```
-
-2. **Simulation Launch**:
-    ```sh
-    roslaunch assignment_2_2024 sim_w1.launch
     ```
