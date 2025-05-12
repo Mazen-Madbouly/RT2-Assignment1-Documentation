@@ -9,6 +9,5 @@
     
     <!-- Launch the action client node in a separate terminal -->
     <!-- <node pkg="assignment_2_2024" type="action_client.py" name="action_client" output="screen" /> -->
-    <node pkg="assignment_2_2024" type="action_client.py" name="action_client" output="screen" launch-prefix="lxterminal -e" />
-
+    <!--<node pkg="assignment_2_2024" type="action_client.py" name="action_client" output="screen" launch-prefix="Terminator" />-->
 </launch>
